@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "picture.jpg"
   name             : "Jingwen Chen"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate | University of Liverpool"
