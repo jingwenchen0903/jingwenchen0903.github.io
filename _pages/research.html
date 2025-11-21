@@ -20,3 +20,11 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+
+<h2>Working in Progress</h2>
+{% for post in site.research %}
+  {% if post.category == "wip" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
