@@ -7,6 +7,5 @@ author_profile: true
 
 You can reach me at:
 
-- **Jingwen.Chen0903@gmail.com**
-- or
-- **Jingwen.Chen@liverpool.ac.uk**
+- **Jingwen.Chen0903@gmail.com** 
+- or **Jingwen.Chen@liverpool.ac.uk**
