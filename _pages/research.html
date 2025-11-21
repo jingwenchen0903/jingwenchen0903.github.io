@@ -1,0 +1,22 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2>Job Market Paper</h2>
+{% for post in site.research %}
+  {% if post.category == "manuscripts" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Working Papers</h2>
+{% for post in site.research %}
+  {% if post.category == "workingpaper" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
